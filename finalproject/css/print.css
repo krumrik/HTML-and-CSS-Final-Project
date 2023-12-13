@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+}
+div, h1, h2, h3{
+	text-align: left;
+	text-shadow: none;
+	font-size: 12pt;
+}
+a{
+	color: black;
+	font-size: 12pt;
+}
+#main{
+	background-color: white;
+	font-size: 12pt;
+	text-shadow: none;
+}
+#menu{
+	display: none;
+	color: black;
+	font-size: 12pt;
+}
+script{
+	display: none;
+}
